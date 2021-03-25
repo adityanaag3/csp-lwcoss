@@ -1,0 +1,45 @@
+<template>
+    <div class="hero">
+        <div class="heading">Search our Library</div>
+    </div>
+
+    <div class="container">
+        <div class="search">
+            <input
+                type="text"
+                onchange={handleSearchKeyChange}
+                label="Search Books"
+                value={searchKey}
+            />
+            <p class="margin-vertical-small">
+                <button
+                    label="Search"
+                    class="button"
+                    onclick={handleSearchClick}
+                >
+                    Search
+                </button>
+            </p>
+        </div>
+        <div class="allResults">
+            <template if:true={books}>
+                <template for:each={books.items} for:item="book">
+                    <div key={book.id} class="result">
+                        <div class="thumbnail">
+                            <template if:true={book.volumeInfo.imageLinks}>
+                                <img src={book.volumeInfo.imageLinks.thumbnail} />
+                            </template>
+                        </div>
+                        <div class="details">
+                            <span class="title"> {book.volumeInfo.title} </span>
+                            <br />
+                            <span class="subtitle">
+                                {book.volumeInfo.description}
+                            </span>
+                        </div>
+                    </div>
+                </template>
+            </template>
+        </div>
+    </div>
+</template>

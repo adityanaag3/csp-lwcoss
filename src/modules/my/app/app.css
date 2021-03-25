@@ -1,0 +1,57 @@
+.hero {
+    background: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1153&q=80');
+    background-size: cover;
+}
+
+.hero .heading {
+    padding: 2rem;
+    color: white;
+    font-size: 2rem;
+}
+
+input {
+    border: 1px solid #dddbda;
+    line-height: 1.875rem;
+    min-height: 1.9rem;
+    padding-left: 10px;
+    width: 32%;
+}
+
+button {
+    font-size: 0.9em;
+    background-color: #02a0e0;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    min-width: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.result {
+    display: flex;
+    width: 100%;
+    background: #eef;
+    margin-bottom: 15px;
+}
+
+img {
+    max-width: 100px;
+}
+
+.details {
+    padding: 10px;
+    line-height: 30px;
+}
+
+.title {
+    font-size: 21px;
+}
+
+.subtitle {
+    font-size: 14px;
+}
+
+.container {
+    margin-top: 25px;
+}

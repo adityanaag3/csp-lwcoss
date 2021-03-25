@@ -1,0 +1,761 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2044,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "f280CwAAQBAJ",
+      "etag": "y4WuQB+E6ms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f280CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter: The Complete Collection (1-7)",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-14",
+        "description": "All seven eBooks in the multi-award winning, internationally bestselling Harry Potter series, available as one download with stunning cover art by Olly Moss. Enjoy the stories that have captured the imagination of millions worldwide. Having now become classics of our time, the Harry Potter ebooks never fail to bring comfort and escapism to readers of all ages. With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781106464"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781106460"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 4236,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 40,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.20.19.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f280CwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f280CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=f280CwAAQBAJ&dq=Harry+Potter&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=f280CwAAQBAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_The_Complete_Collection_1_7.html?hl=&id=f280CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f280CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All seven eBooks in the multi-award winning, internationally bestselling Harry Potter series, available as one download with stunning cover art by Olly Moss. Enjoy the stories that have captured the imagination of millions worldwide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kLAoswEACAAJ",
+      "etag": "fcjNWDdtREU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kLAoswEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Cursed Child",
+        "authors": [
+          "J. K. Rowling",
+          "Jack Thorne",
+          "John Tiffany"
+        ],
+        "publisher": "Sphere",
+        "publishedDate": "2017-07-25",
+        "description": "The official playscript of the original West End production of Harry Potter and the Cursed Child. It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children. While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places. The playscript for Harry Potter and the Cursed Child was originally released as a 'special rehearsal edition' alongside the opening of Jack Thorne's play in London's West End in summer 2016. Based on an original story by J.K. Rowling, John Tiffany and Jack Thorne, the play opened to rapturous reviews from theatregoers and critics alike, while the official playscript became an immediate global bestseller. This revised paperback edition updates the 'special rehearsal edition' with the conclusive and final dialogue from the play, which has subtly changed since its rehearsals, as well as a conversation piece between director John Tiffany and writer Jack Thorne, who share stories and insights about reading playscripts. This edition also includes useful background information including the Potter family tree and a timeline of events from the wizarding world prior to the beginning of Harry Potter and the Cursed Child.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0751565369"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780751565362"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 179,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=kLAoswEACAAJ&dq=Harry+Potter&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=kLAoswEACAAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child.html?hl=&id=kLAoswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kLAoswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As an overworked employee of the Ministry of Magic, a husband, and a father, Harry Potter struggles with a past that refuses to stay where it belongs while his youngest son, Albus, finds the weight of the family legacy difficult to bear."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oPIMmQEACAAJ",
+      "etag": "9VsXsZpScHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oPIMmQEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Goblet of Fire",
+        "authors": [
+          "J. K. Rowling",
+          "Mary GrandPré"
+        ],
+        "publisher": "Scholastic Paperbacks",
+        "publishedDate": "2013-08-27",
+        "description": "Young wizard-in-training Harry Potter prepares for a competition between Hogwarts School of Magic and two rival schools, develops a crush on Cho Chang, and wishes above all to be a normal fourteen-year-old.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0545582954"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780545582957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 734,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 127,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oPIMmQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oPIMmQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oPIMmQEACAAJ&dq=Harry+Potter&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=oPIMmQEACAAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Goblet_of_Fire.html?hl=&id=oPIMmQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oPIMmQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Young wizard-in-training Harry Potter prepares for a competition between Hogwarts School of Magic and two rival schools, develops a crush on Cho Chang, and wishes above all to be a normal fourteen-year-old."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1XP_tQEACAAJ",
+      "etag": "+t2O7klpL4Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1XP_tQEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter",
+        "subtitle": "The Illustrated Collection",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Harry Potter",
+        "publishedDate": "2018-09-25",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "133831291X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338312911"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1XP_tQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1XP_tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=1XP_tQEACAAJ&dq=Harry+Potter&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=1XP_tQEACAAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter.html?hl=&id=1XP_tQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1XP_tQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Gorgeously illustrated in full color by award-winning artist Kay, the first three books in Rowling&#39;s beloved Harry Potter series--&quot;Harry Potter and the Sorcerer&#39;s Stone, Harry Potter and the Chamber of Secrets, &quot; and &quot;Harry Potter and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ilc0DwAAQBAJ",
+      "etag": "VBfwGD1PceM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ilc0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter - A Journey Through A History of Magic",
+        "authors": [
+          "British Library"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2017-10-20",
+        "description": "The official companion book to the British Library exhibition and the ultimate gift for Harry Potter fans! As the British Library unveils a very special new exhibition in the UK, Harry Potter: A History of Magic, readers everywhere are invited on an enchanting journey through the Hogwarts curriculum, from Care of Magical Creatures and Herbology to Defense Against the Dark Arts, Astronomy, and more in this eBook uncovering thousands of years of magical history.Prepare to be amazed by artifacts released from the archives of the British Library, unseen sketches and manuscript pages from J.K. Rowling, and incredible illustrations from artist Jim Kay. Discover the truth behind the origins of the Philosopher's Stone, monstrous dragons, and troublesome trolls; examine real-life wands and find out what actually makes a mandrake scream; pore over remarkable pages from da Vinci's notebook; and discover the oldest atlas of the night sky. Carefully curated by the British Library and full of extraordinary treasures from all over the world, this is an unforgettable journey exploring the history of the magic at the heart of the Harry Potter stories.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781109502"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781109508"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.10.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ilc0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ilc0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ilc0DwAAQBAJ&dq=Harry+Potter&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ilc0DwAAQBAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_A_Journey_Through_A_History.html?hl=&id=ilc0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ilc0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Carefully curated by the British Library and full of extraordinary treasures from all over the world, this is an unforgettable journey exploring the history of the magic at the heart of the Harry Potter stories."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jk87_y-ubE0C",
+      "etag": "fuE0v7ufcgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jk87_y-ubE0C",
+      "volumeInfo": {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "'You are sharing the Dark Lord's thoughts and emotions. The Headmaster thinks it inadvisable for this to continue. He wishes me to teach you how to close your mind to the Dark Lord.' Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him. There are many who deny the Dark Lord's return, but Harry is not alone: a secret order gathers at Grimmauld Place to fight against the Dark forces. Harry must allow Professor Snape to teach him how to protect himself from Voldemort's savage assaults on his mind. But they are growing stronger by the day and Harry is running out of time... Having now become classics of our time, the Harry Potter ebooks never fail to bring comfort and escapism to readers of all ages. With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781100240"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781100241"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 901,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 161,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.19.18.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jk87_y-ubE0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jk87_y-ubE0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=jk87_y-ubE0C&dq=Harry+Potter&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=jk87_y-ubE0C&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Order_of_the_Phoeni.html?hl=&id=jk87_y-ubE0C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jk87_y-ubE0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J_6rDwAAQBAJ",
+      "etag": "eqawYtO7RlA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J_6rDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cultural Politics in Harry Potter",
+        "subtitle": "Life, Death and the Politics of Fear",
+        "authors": [
+          "Rubén Jarazo-Álvarez",
+          "Pilar Alderete-Diez"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2019-09-16",
+        "description": "Cultural Politics in Harry Potter: Life, Death and the Politics of Fear is the first book-length analysis of topics, such as death, fear and biopolitics in J.K. Rowling’s work from controversial and interdisciplinary perspectives. This collection brings together recent theoretical and applied cultural studies and focuses on three key areas of inquiry: (1) wizarding biopolitics and intersected discourses; (2) anxiety, death, resilience and trauma; and (3) the politics of fear and postmodern transformations. As such, this book: provides a comprehensive overview of national and gender discourses, as well as the transiting bodies in-between, in relation to the Harry Potter books series and related multimedia franchise; situates the transformative power of death within the fandom, transmedia and film depictions of the Potterverse and critically deconstructs the processes of subjectivation and legitimation of death and fear; examines the strategies and mechanisms through which cultural and political processes are managed, as well as reminding us how fiction and reality intersect at junctions, such as terrorism, homonationalism, materialism, capitalism, posthumanism and technology. Exploring precisely what is cultural about wizarding politics, and what is political about culture, this book is key reading for students of contemporary literature, media and culture, as well as anyone with an interest in the fictional universe and wizarding world of Harry Potter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000556605"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000556603"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J_6rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J_6rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=J_6rDwAAQBAJ&printsec=frontcover&dq=Harry+Potter&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J_6rDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J_6rDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3922.32,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3922.32,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J_6rDwAAQBAJ&rdid=book-J_6rDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3922320000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3922320000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Cultural_Politics_in_Harry_Potter-sample-epub.acsm?id=J_6rDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Cultural_Politics_in_Harry_Potter-sample-pdf.acsm?id=J_6rDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J_6rDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Exploring precisely what is cultural about wizarding politics, and what is political about culture, this book is key reading for students of contemporary literature, media and culture, as well as anyone with an interest in the fictional ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aN0PEAAAQBAJ",
+      "etag": "3WWF5eLCMoc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aN0PEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter Sticker Art Puzzles",
+        "authors": [
+          "Editors of Thunder Bay Press"
+        ],
+        "publisher": "Thunder Bay Press",
+        "publishedDate": "2019-12-03",
+        "description": "Harry Potter fans of all ages will enjoy these fifteen sticker-puzzle challenges! Follow Harry, Hermione, Ron, and your favorite wizards through the halls of Hogwarts and learn what it takes to be a hero. Each sticker puzzle spread features a signature trait a wizard must have: courage, cleverness, loyalty, resilience, and more. The fifteen puzzles feature more than 100 stickers each to create memorable scenes from the Harry Potter films. Fans of all ages will relive the magic of the films as they complete each puzzle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781684128396"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1684128390"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Games & Activities"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aN0PEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aN0PEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=aN0PEAAAQBAJ&pg=PA18&dq=Harry+Potter&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=aN0PEAAAQBAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_Sticker_Art_Puzzles.html?hl=&id=aN0PEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aN0PEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "be – Rubeus Hagrid \u003cb\u003eHarry Potter\u003c/b\u003e and the Deathly Hallows - Part 1 Hagrid could \u003cbr\u003e\nbarely keep from weeping the night he left infant \u003cb\u003eHarry Potter\u003c/b\u003e on the Dursleys&#39; \u003cbr\u003e\ndoorstep. From that day forward, the enormous wizard felt a special warmth for \u003cbr\u003e\nthe&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5iTebBW-w7QC",
+      "etag": "tOj71+laba8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5iTebBW-w7QC",
+      "volumeInfo": {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "'There is a plot, Harry Potter. A plot to make most terrible things happen at Hogwarts School of Witchcraft and Wizardry this year.' Harry Potter's summer has included the worst birthday ever, doomy warnings from a house-elf called Dobby, and rescue from the Dursleys by his friend Ron Weasley in a magical flying car! Back at Hogwarts School of Witchcraft and Wizardry for his second year, Harry hears strange whispers echo through empty corridors - and then the attacks start. Students are found as though turned to stone... Dobby's sinister predictions seem to be coming true. Having now become classics of our time, the Harry Potter ebooks never fail to bring comfort and escapism to readers of all ages. With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781100509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781100500"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 341,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2389,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.23.20.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5iTebBW-w7QC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5iTebBW-w7QC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=5iTebBW-w7QC&dq=Harry+Potter&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=5iTebBW-w7QC&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Chamber_of_Secrets.html?hl=&id=5iTebBW-w7QC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5iTebBW-w7QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_oKnzQEACAAJ",
+      "etag": "YdA43Yao2R8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_oKnzQEACAAJ",
+      "volumeInfo": {
+        "title": "HARRY POTTER",
+        "subtitle": "The Wand Collection",
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1789096367"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789096361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=_oKnzQEACAAJ&dq=Harry+Potter&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=_oKnzQEACAAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HARRY_POTTER.html?hl=&id=_oKnzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_oKnzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
